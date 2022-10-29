@@ -1,1 +1,2 @@
-103-commas
+#!/bin/bash
+ls -pamv
